@@ -1,0 +1,7 @@
+The 'energy_data.csv' file is assumed to have the following columns:
+
+temperature: Temperature reading in Celsius.
+humidity: Humidity level as a percentage.
+occupancy: Binary value indicating occupancy (1 if occupied, 0 if unoccupied).
+consumption: Energy consumption value (target variable to predict).
+Each row in the CSV file represents a sample or observation of the energy consumption data, with corresponding values for temperature, humidity, occupancy, and consumption.
